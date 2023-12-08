@@ -1,4 +1,4 @@
-# TSCNet_Case2
+# TSCNet - Case2
 
 # Optimization of PST Taps
 
